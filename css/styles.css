@@ -1,9 +1,87 @@
-body{
+.body{
+    font-family: 'Raleway', sans-serif;
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
     color: #434455;
 }
 
-:root{
-    
+.logoweb{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.logoweb2{
+    color: #2e2f42;
+}
+
+.list{
+    list-style: none;
+}
+
+.studio{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.studio:hover,
+.studio:focus{
+    color: #404bbf;
+}
+
+.portfolio{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.portfolio:hover,
+.portfolio:focus {
+    color: #404bbf;
+}
+
+.contact{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.contact:hover,
+.contact:focus {
+    color: #404bbf;
+}
+
+.gmail{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+
+.gmail:hover,
+.gmail:focus {
+    color: #404bbf;
+}
+
+.number{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
