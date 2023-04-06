@@ -1,5 +1,4 @@
-.body{
-    font-family: 'Raleway', sans-serif;
+body{
     font-family: 'Roboto', sans-serif;
     background-color: #FFFFFF;
     color: #434455;
@@ -19,7 +18,7 @@
     text-decoration: none;
 }
 
-.logoweb2{
+.logo_web{
     color: #2e2f42;
 }
 
