@@ -55,12 +55,7 @@ body{
     color: #434455;
 }
 
-.gmail:hover,
-.gmail:focus{
-    color: #404bbf;
-}
-
-.phone:hover,
-.phone:focus{
+.sections:hover,
+.sections:focus{
     color: #404bbf;
 }
