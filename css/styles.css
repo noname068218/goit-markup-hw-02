@@ -56,11 +56,11 @@ body{
 }
 
 .gmail:hover,
-.gmail:focus {
+.gmail:focus{
     color: #404bbf;
 }
 
-.tel:hover,
-.tel:focus {
+.phone:hover,
+.phone:focus{
     color: #404bbf;
 }
