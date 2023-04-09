@@ -80,6 +80,6 @@ body{
 }
 .button-order:hover,
 .button-order:focus{
-    color: #404BBF;
+    background-color: #404BBF;
     cursor: pointer;
 }
