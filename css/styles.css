@@ -4,6 +4,13 @@ body{
     color: #434455;
 }
 
+
+:root{
+    --font-family: 'Roboto', sans-serif;
+    --body-text: #434455;
+    --background-color: #FFFFFF;
+}
+
 .logoweb{
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -82,4 +89,17 @@ body{
 .button-order:focus{
     background-color: #404BBF;
     cursor: pointer;
+}
+
+.section-two, h3{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.simple-text, p{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
