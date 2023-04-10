@@ -156,32 +156,15 @@ body{
     color: #F4F4FD;
 }
 /* Portfolio */
-.all{
-    font-family: 'Roboto';
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #4d5ae5;
-    background-color: #F4F4FD;
-
-}
-
-.all:hover,
-.all:focus{
-    color: #FFFFFF;
-    background-color: #404BBF;
-    
-}
-
 .rest-button {
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #4d5ae5;
     background-color: #F4F4FD;
+    cursor: pointer;
 
 }
 
