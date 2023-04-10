@@ -10,7 +10,7 @@ body{
     --body-text: #434455;
     --background-color: #FFFFFF;
 }
-
+/* studio */
 .logoweb{
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
@@ -155,4 +155,43 @@ body{
 .logo_end{
     color: #F4F4FD;
 }
+/* Portfolio */
+.all{
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+
+}
+
+.all:hover,
+.all:focus{
+    color: #FFFFFF;
+    background-color: #404BBF;
+    
+}
+
+.rest-button {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #4d5ae5;
+    background-color: #F4F4FD;
+
+}
+
+.rest-button:hover,
+.rest-button:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+
+}
+/* Photo */
+
+
 
